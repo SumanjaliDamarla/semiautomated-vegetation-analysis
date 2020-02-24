@@ -13,7 +13,7 @@ jobs:
     - uses: actions/stale@v1
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
-        stale-issue-message: 'Stale issue message'
-        stale-pr-message: 'Stale pull request message'
+        stale-issue-message: 'This issue needs to be worked upon soon. @SumanjaliDamarla, @SushmaBarma please have a look into it'
+        stale-pr-message: 'This PR needs to be merged / changed as soon as possible. @SumanjaliDamarla, @SushmaBarma please have a look into it'
         stale-issue-label: 'no-issue-activity'
         stale-pr-label: 'no-pr-activity'
