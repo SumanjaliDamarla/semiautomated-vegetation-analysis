@@ -1,3 +1,3 @@
 ## Remote Sensing Project
 ### Objective
- * Crop classification of Krishna and Godavari delta
+ * Multitemporal Vegetation areas analysis for Krishna and Godavari Command areas
